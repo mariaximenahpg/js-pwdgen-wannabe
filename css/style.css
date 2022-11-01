@@ -1,0 +1,7 @@
+.container {
+    display: inline-block;
+    border: .125rem dotted greenyellow;
+    color: black;
+    text-align: center;
+    padding: 1.25rem;
+}
